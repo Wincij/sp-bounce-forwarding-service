@@ -14,12 +14,9 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git@github.com:SparkPost/sp-bounce-forwarding-service.git"
+    "url": "git@github.com:riskmethods/sp-bounce-forwarding-service.git"
   },
-  "bugs": {
-    "url": "https://github.com/SparkPost/sp-bounce-forwarding-service/issues"
-  },
-  "homepage": "https://github.com/SparkPost/sp-bounce-forwarding-service",
+  "homepage": "https://github.com/riskmethods/sp-bounce-forwarding-service",
   "dependencies": {
     "body-parser": "^1.15.0",
     "bower": "^1.7.7",

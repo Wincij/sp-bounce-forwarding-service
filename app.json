@@ -20,6 +20,6 @@
   },
   "addons": [
     "heroku-redis",
-    "sparkpost"
+    "papertrail"
   ]
 }
